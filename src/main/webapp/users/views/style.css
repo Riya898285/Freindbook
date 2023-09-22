@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+.card-profile{
+	float:center;
+   	width:700px;
+   	margin-top:150px;
+   	margin-left:600px;
+    height:200px;   
+    background-color: aliceblue;
+   
+}
